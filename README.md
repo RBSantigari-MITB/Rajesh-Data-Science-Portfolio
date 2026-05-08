@@ -1,2 +1,2 @@
 # Rajesh-Data-Science-Portfolio
-Data Science, Machine Learning and Analytics projects (Python, ML, Power BI)
+Python, Machine Learning, SQL, Advanced Excel, Power BI Projects
